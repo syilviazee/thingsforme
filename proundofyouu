@@ -9,8 +9,8 @@
 flag=1
 function f1()
 {
-    alert("Makasih Udah pilih Jawaban Ya Mau")
-    location.replace("https://wa.me/6285972737000?text=Halo%20Sayang%20Aku%20Mau%20Jadi%20Pacar%20Kamu%20Kok%20")
+    alert("Pround Of Youuu")
+    location.replace("https://wa.me/6285972737000?text=haiii%20aku%20beruntung%20jadi%20diri%20ku%20sendiri%20")
 }
 function f()
 {
@@ -45,10 +45,10 @@ function f()
               <p class="card-text">Bangga banget sama kamu yang udah berhasil lewatin hari yang berat ini.</p>
                <div id="By" style="position:absolute; left:30px; top:390px; width:210px;
           height:210px;">
-          <input class="btn btn-primary" type="button" value=" Ya Mau " onClick="f1()" />
+          <input class="btn btn-primary" type="button" value=" Baikkk " onClick="f1()" />
           </div>
           <div ID="Bn" style="position:absolute; left:166px; top: 390px; width:210px; height:210px;">
-          <input class="btn btn-primary" type="button" value=" Gak Mau " onMouseOver="f()" />
+          <input class="btn btn-primary" type="button" value=" Jelekk " onMouseOver="f()" />
           </div>
             </div>
           </div>
